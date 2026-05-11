@@ -37,17 +37,6 @@ AI-powered deepfake detection system designed to analyze videos and determine au
 
 ---
 
-### Formula 1 Fan Platform
-Building a real-time Formula 1 companion platform inspired by modern F1 ecosystem apps like FormulaLaps and BoxBox.
-
-**Planned Features**
-- Live race tracking
-- Driver and constructor data
-- Race insights
-- Fan-focused experience
-
----
-
 ## Tech Stack
 
 ### Frontend
@@ -88,12 +77,6 @@ Currently exploring contributions in:
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsAtharva9928&show_icons=true)
-
----
-
 ## Current Goals
 
 - Contribute consistently to open source
@@ -102,8 +85,3 @@ Currently exploring contributions in:
 - Develop scalable AI-integrated applications
 
 ---
-
-## Connect
-
-- GitHub: https://github.com/ItsAtharva9928
-```
